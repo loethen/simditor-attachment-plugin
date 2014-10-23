@@ -9,6 +9,8 @@ A simditor multi-attchment upload plugin
 
 重要！引用attachment.js之前请先引用md5.js
 
+重要！进度条的样式引用了bootstrap.css你也可以自己写
+
 你可以自己编译attachment.coffee进一步改写成你需要的功能。
 
 demo请参考这里的图片上传[demo](http://www.mgpyh.com/solarize/want_to_show/) 
